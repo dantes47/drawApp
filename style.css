@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    padding: 50px;
+}
+
+div {
+    font-size: 30px;
+}
+
+button {
+    font-size: 25px;
+    border-radius: 6px;
+    background-color: pink;
+}
